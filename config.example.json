@@ -1,0 +1,14 @@
+{
+    "csvFolder": "C:\\Users\\ccc\\Downloads\\99 raw for format\\co2",
+    "exportFolder": "C:\\Users\\ccc\\Downloads\\99 raw for format\\merged",
+    "defaultSettings": {
+        "skiprows": 46,
+        "skipfooter": 1
+    },
+    "csvFiles": {
+        "CO2_09-20-17_13-55(20170501to20170917).csv": {
+            "skiprows": 58,
+            "skipfooter": 1
+        }
+    }
+}

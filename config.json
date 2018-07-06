@@ -1,0 +1,26 @@
+{
+    "csvFolder": "C:\\Users\\comon\\Downloads\\99 raw for format\\vfd_25f",
+    "exportFolder": "C:\\Users\\comon\\Downloads\\99 raw for format\\merged",
+    "defaultSettings": {
+        "skiprows": 15,
+        "skipfooter": 1
+    },
+    "csvFiles": {
+        "19F VFD REPORT_04-02-11_16-18.csv": {
+            "skiprows": 12,
+            "skipfooter": 1
+        },
+        "19F VFD REPORT_04-04-11_05-55.csv": {
+            "skiprows": 12,
+            "skipfooter": 1
+        },
+        "19F VFD REPORT_04-07-11_11-26.csv": {
+            "skiprows": 12,
+            "skipfooter": 1
+        },
+        "18F VFD REPORT_04-07-11_05-45.csv": {
+            "skiprows": 12,
+            "skipfooter": 1
+        }
+    }
+}
